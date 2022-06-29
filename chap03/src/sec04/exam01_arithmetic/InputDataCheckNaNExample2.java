@@ -8,7 +8,7 @@ public class InputDataCheckNaNExample2 {
 		
 		double currentBalance = 10000.0;
 		
-		if(Double.isNaN(va1)) {
+		if(Double.isNaN(va1)) { // Not a Number True(문자여야 함), 숫자이면 false
 			System.out.println("NaN이 입력되어 처리할 수 없음");
 			va1 = 0.0;
 		}
