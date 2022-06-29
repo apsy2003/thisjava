@@ -18,8 +18,13 @@ public class CheckOverflowExample {
 			if(left>(Integer.MAX_VALUE - right)) {
 				throw new ArithmeticException("오버플로우 발생");
 			}
-		}
+		}else {
+			if(left<(Integer.MIN_VALUE -right)) {
+				throw new ArithmeticException("오버플로우 발생");
+			}
+		}	
 		return left + right;
-	}	
+		
+	} 
 
 }
