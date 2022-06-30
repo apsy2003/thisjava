@@ -3,7 +3,7 @@ package sec02.exam02_switch;
 public class SwithcCharExample {
 
 	public static void main(String[] args) {
-		char grade = 'B';
+		char grade = 'b';
 		
 			switch(grade) {
 			case 'A':

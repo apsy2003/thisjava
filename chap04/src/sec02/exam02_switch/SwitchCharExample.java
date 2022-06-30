@@ -1,6 +1,6 @@
 package sec02.exam02_switch;
 
-public class SwitchExample {
+public class SwitchCharExample {
 
 	public static void main(String[] args) {
 		int num = (int)(Math.random()*6) + 1;
