@@ -1,4 +1,4 @@
-package sec02.exam01_if;
+package sec02.exam02_switch;
 
 public class SwitchExample {
 
