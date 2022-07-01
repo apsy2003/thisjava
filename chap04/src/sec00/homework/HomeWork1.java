@@ -1,4 +1,4 @@
-package sec03.homework;
+package sec00.homework;
 
 public class HomeWork1 {
 
