@@ -4,6 +4,7 @@ public class ArrayCreateByValueListExample1 {
 
 	public static void main(String[] args) {
 		int[] scores = {83, 90, 87};
+		/*int[] scores = new int[3];*/
 		
 		System.out.println("scores[0] : " + scores[0]);
 		System.out.println("scores[1] : " + scores[1]);
