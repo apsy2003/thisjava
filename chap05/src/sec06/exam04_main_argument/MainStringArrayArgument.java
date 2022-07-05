@@ -12,7 +12,7 @@ public class MainStringArrayArgument {
 		String strNum1 = args[0];
 		String strNum2 = args[1];
 
-		int num1 = Integer.parseInt(strNum1);
+		int num1 = Integer.parseInt(strNum1); //문자열로 들어오기 때문에 int로 바꿔줄 수 있는 것이 Integer.parseInt
 		int num2 = Integer.parseInt(strNum2);
 		
 		int result = num1 + num2;
