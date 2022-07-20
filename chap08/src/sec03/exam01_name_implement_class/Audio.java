@@ -9,9 +9,9 @@ public class Audio implements RemoteControl {
 
 	}
 	
+		System.out.println("Audio¸¦ ²ü´Ï´Ù.");
 	@Override
 	public void turnOff() {
-		System.out.println("Audio¸¦ ²ü´Ï´Ù.");
 	}
 	
 	@Override
