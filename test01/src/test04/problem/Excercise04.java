@@ -1,15 +1,11 @@
-package test04.problem;
-
-public class Excercise04 {
-
+public class Exercise03 {
 	public static void main(String[] args) {
-		int max = 0;
-		int[] array = {1, 5, 3, 8, 2};
-		for(int i=0; i<array.length; i++){
-			if(max<array[i]){
-				max = array[i];
+		for(int i=0; i<=5; i++){
+			for(int j=0; j<=i; j++){
+				System.out.println("*");
+			} if(i==j){
+				System.out.println();
 			}
-		}
-		System.out.println("max:" + max);
+}
 	}
 }
