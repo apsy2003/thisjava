@@ -8,4 +8,6 @@
 <fullyQualifiedTypeName name="sec13.exam02_constructor_access.package1.A"/>
 <fullyQualifiedTypeName name="sec13.exam03_field_method_access.package1.A"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="sec02.exam01_nestedclass_object.A.B"/>
+<fullyQualifiedTypeName name="sec02.exam01_nestedclass_object.A.C"/>
 </qualifiedTypeNameHistroy>
