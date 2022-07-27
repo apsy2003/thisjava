@@ -10,4 +10,5 @@
 <fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="sec02.exam01_nestedclass_object.A.B"/>
 <fullyQualifiedTypeName name="sec02.exam01_nestedclass_object.A.C"/>
+<fullyQualifiedTypeName name="sec03.exam04_outterclass_ref.Outter.Nested"/>
 </qualifiedTypeNameHistroy>
