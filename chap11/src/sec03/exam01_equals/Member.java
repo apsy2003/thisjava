@@ -1,4 +1,4 @@
-package sec01.exam01_equals;
+package sec03.exam01_equals;
 
 public class Member {
 	public String id; //id는 필드가 지정해준 값.

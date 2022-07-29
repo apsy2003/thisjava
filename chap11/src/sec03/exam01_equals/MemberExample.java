@@ -1,4 +1,4 @@
-package sec01.exam01_equals;
+package sec03.exam01_equals;
 
 public class MemberExample {
 
