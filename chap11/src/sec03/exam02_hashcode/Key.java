@@ -1,6 +1,6 @@
 package sec03.exam02_hashcode;
 
-import sec03.exam01_equals.Member;
+/*import sec03.exam01_equals.Member; ...? ¹«¾ù..*/
 
 public class Key {
 	public int number;
