@@ -16,7 +16,7 @@ public class MemberExample {
 			System.out.println("obj1과 obj2는 동등합니다.");			
 		} else {
 			System.out.println("obj1과 obj2는 동등하지 않습니다.");
-		}*/
+		} // 메소드가 아니기에 재정의가 불가능. 때문에 메소드를 사용하는 것. equals는 대부분 재정의가 가능*/
 		System.out.println("========================");
 		if(obj1.equals(obj3)) {
 			System.out.println("obj1과 obj3은 동등합니다.");
