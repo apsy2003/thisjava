@@ -17,7 +17,7 @@ public class StringToLowerUpperCaseExample {
 		System.out.println(lowerStr2);
 		System.out.println(lowerStr4);
 		System.out.println(lowerStr1.equals(lowerStr2));
-		
+		//소문자, 대문자 출력방식
 		System.out.println(str1.equalsIgnoreCase(str2));
 
 	}
